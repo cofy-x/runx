@@ -1,6 +1,6 @@
 module github.com/cofy-x/elyro
 
-go 1.25.12
+go 1.25.13
 
 require (
 	charm.land/lipgloss/v2 v2.0.5
